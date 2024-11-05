@@ -17,9 +17,10 @@ body, html, #root {
 /* Navigation Bar Styles */
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  background-color: #0c323c; 
+  background-color: #0c323c;
+   padding: 10px 0;
   height: 60px;
   position: sticky;
   top: 0;
